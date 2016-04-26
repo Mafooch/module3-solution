@@ -1,0 +1,14 @@
+.navbar-nav {
+  background-color: #D2E0E3;
+  text-align: center;
+}
+
+.navbar-nav li {
+  border-bottom: 1px solid #8F999B;
+}
+
+#menu {
+  height: 1000px;
+  background-color: #F6F7E9;
+  text-align: center;
+}
